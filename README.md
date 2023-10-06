@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Suleyman
 
-- 🌱 I’m currently learning **Swift**
-- 📫 How to reach me **suleymanyazc.3@gmail.com**
+-  I’m currently learning **Swift**
+-  How to reach me **suleymanyazc.3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
